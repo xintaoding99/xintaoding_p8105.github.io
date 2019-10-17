@@ -12,7 +12,8 @@ output:
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 ## add links 
 
-I often use [google](google.com) to do ** data science
+I often use [google](http://www.google.com) to do ** data science  # copy full address instead of the abbreviation
+
 
 
 ## let's add image
