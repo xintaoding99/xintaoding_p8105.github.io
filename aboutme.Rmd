@@ -1,0 +1,8 @@
+---
+title: "about.html"
+author: "Xintao Ding"
+date: "10/17/2019"
+output: html_document
+---
+
+My name is Xintao and I'm trying to make a website! 
