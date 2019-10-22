@@ -21,7 +21,7 @@ I often use [google](http://www.google.com) to do ** data science  # copy full a
 
 ```{r error = TRUE}
 #![](image.jpg)
-![](http://webiste url)
+#![](http://webiste url)
 
 ```
  
